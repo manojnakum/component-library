@@ -1,0 +1,28 @@
+$btn-font-weight: 400;
+$btn-border-width: 1px;
+$disabled-btn-color: #aaa;
+$link-color: $indigo-500;
+
+$button: (
+	red: $red,
+	blue: $blue,
+	grey: $grey,
+	orange: $orange,
+	green: $green,
+	teal: $teal,
+	pink: $pink,
+	purple: $purple,
+	deep-purple: $deep-purple,
+	indigo: $indigo,
+	light-blue: $light-blue,
+	cyan: $cyan,
+	light-green: $light-green,
+	lime: $lime,
+	yellow: $yellow,
+	amber: $amber,
+	deep-orange: $deep-orange,
+	brown: $brown,
+	blue-grey: $blue-grey,
+	white: $white,
+	black: $black
+) !default;
